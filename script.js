@@ -4,7 +4,7 @@ const agentPackage = [
     summary: "<p>Jett’s agile and evasive fighting style lets her take risks no one else can. She runs circles around every skirmish, cutting enemies up before they even know what hit them.</p>" +
     "<p>Jett wields several throwing knives that deal moderate damage and kill on headshots. Getting a kill replenishes your daggers and you can choose to throw them one at a time or throw all remaining daggers in a short-ranged burst.</p>" +
     "<p>From Korea comes Jett, an agile fighter who prioritizes movement over everything. Her abilities include a teleportation-based dash and an updraft that lets her reach higher ledges. She also has a smokebomb ability to hinder sightlines, and a powerful Bladestorm ultimate that deals moderate-to-heavy damage and remains accurate even while she's moving.</p>",
-    agentPicture: "https://vignette.wikia.nocookie.net/valorant/images/6/6d/Jett_%28Half%29.png/revision/latest/scale-to-width-down/350?cb=20200405200254",
+    agentPicture: "images/Jett_(Half).webp",
     abilityBasic1Title: "Cloud Burst",
     abilityBasic1Type: "Basic",
     abilityBasic1Cost: "100",
@@ -26,7 +26,7 @@ const agentPackage = [
     name: "Viper",
     summary: "<p>Viper deploys an array of poisonous chemical devices to control the battlefield and cripple the enemy’s vision. If the toxins don’t kill her prey, her mind games surely will.</p>" +
     "<p>A predator that deals in poison and chemical warfare. She has exploding projectiles that spill acid on the battlefield, as well as a poison-gas emitter and a toxic gas screen to prevent passage. Her ultimate emits a toxic cloud that conceals her location and highlights enemies who wander into it.</p>",
-    agentPicture: "https://vignette.wikia.nocookie.net/valorant/images/2/2e/Viper_%28Half%29.png/revision/latest/scale-to-width-down/350?cb=20200405195906",
+    agentPicture: "images/Viper_(Half).webp",
     abilityBasic1Title: "Snake Bite",
     abilityBasic1Type: "Basic",
     abilityBasic1Cost: "100",
@@ -47,7 +47,7 @@ const agentPackage = [
   {
     name: "Raze",
     summary: '<p>Raze loves explosives. With her blunt-force-trauma playstyle, she excels at flushing entrenched enemies and clearing tight spaces with a generous dose of "boom"</p>',
-    agentPicture: "https://vignette.wikia.nocookie.net/valorant/images/3/3c/Raze_%28Half%29.png/revision/latest/scale-to-width-down/350?cb=20200404212156",
+    agentPicture: "images/Raze_(Half).webp",
     abilityBasic1Title: "Boom Bot",
     abilityBasic1Type: "Basic",
     abilityBasic1Cost: "200",
@@ -69,7 +69,7 @@ const agentPackage = [
     name: "Sova",
     summary: '<p>Sova tracks, finds, and eliminates enemies with ruthless efficiency and precision. His custom bow and incredible scouting abilities ensure that even if you run, you cannot hide.</p>' +
     '<p>An archery expert, he can equip his bow with different bolts that reveal enemy locations or shock nearby adversaries. He can also deploy a recon drone to survey the battlefield, while his ultimate lets him fire three deadly arrow shots through walls.</p>',
-    agentPicture: "https://vignette.wikia.nocookie.net/valorant/images/0/00/Sova_%28Half%29.png/revision/latest/scale-to-width-down/350?cb=20200405200739",
+    agentPicture: "images/Sova_(Half).webp",
     abilityBasic1Title: "Shock Bolt",
     abilityBasic1Type: "Basic",
     abilityBasic1Cost: "100",
@@ -90,7 +90,7 @@ const agentPackage = [
   {
     name: "Phoenix",
     summary: '<p>Phoenix’s star power shines through in his fighting style, igniting the battlefield with flash and flare. Whether he’s got backup or not, he’s rushing in to fight on his own terms.</p>',
-    agentPicture: "https://vignette.wikia.nocookie.net/valorant/images/f/f6/Phoenix_%28Half%29.png/revision/latest/scale-to-width-down/350?cb=20200405200606",
+    agentPicture: "images/Phoenix_(Half).webp",
     abilityBasic1Title: "Blaze",
     abilityBasic1Type: "Basic",
     abilityBasic1Cost: "200",
@@ -112,7 +112,7 @@ const agentPackage = [
     name: "Sage",
     summary: '<p>Sage creates safety for herself and her team wherever she goes. Able to revive fallen friends and stave off forceful assaults, she provides a calm center to a hellish battlefield.</p>' +
     '<p>The most prominent support character to date hails from China and brings orbs that heal allies, slow enemies, and create barriers out of the ground to impede the flow of a match. Her ultimate ability allows her to resurrect a fallen ally, which is significant in a game with no respawns.</p>',
-    agentPicture: "https://vignette.wikia.nocookie.net/valorant/images/7/7a/Sage_%28Half%29.png/revision/latest/scale-to-width-down/350?cb=20200405194913",
+    agentPicture: "images/Sage_(Half).webp",
     abilityBasic1Title: "Barrier Orb",
     abilityBasic1Type: "Basic",
     abilityBasic1Cost: "300",
@@ -134,7 +134,7 @@ const agentPackage = [
     name: "Cypher",
     summary: '<p>Cypher is a one-man surveillance network who keeps tabs on the enemy’s every move. No secret is safe. No maneuver goes unseen. Cypher is always watching.</p>' +
     '<p>If intel is your thing, Cypher might be your Agent. This Moroccan surveillant has abilities that trap and reveal the locations of enemies that get stuck in them, as well as an actual spycam he can place on the map to watch the action from afar. His ultimate extracts information from an enemy corpse to temporarily reveal the location of remaining characters on the opposing team [2]. </p>',
-    agentPicture: "https://vignette.wikia.nocookie.net/valorant/images/f/fc/Cypher_%28Half%29.png/revision/latest/scale-to-width-down/350?cb=20200405195448",
+    agentPicture: "images/Cypher_(Half).webp",
     abilityBasic1Title: "Trapwire",
     abilityBasic1Type: "Basic",
     abilityBasic1Cost: "200",
@@ -155,7 +155,7 @@ const agentPackage = [
   {
     name: "Breach",
     summary: '<p>Breach fires powerful, targeted kinetic blasts to aggressively clear a path through enemy ground. The damage and disruption he inflicts ensures no fight is ever fair.</p>',
-    agentPicture: "https://vignette.wikia.nocookie.net/valorant/images/b/b0/Breach_%28Half%29.png/revision/latest/scale-to-width-down/350?cb=20200405195307",
+    agentPicture: "images/Breach_(Half).webp",
     abilityBasic1Title: "Aftershock",
     abilityBasic1Type: "Basic",
     abilityBasic1Cost: "100",
@@ -177,7 +177,7 @@ const agentPackage = [
     name: "Brimstone",
     summary: '<p>Brimstone’s orbital arsenal ensures his squad always has the advantage. His ability to deliver utility precisely and safely make him the unmatched boots-on-the-ground commander.</p>' + 
     '<p>Brimstone is a powerful commander that utilizes incendiary grenades, smokescreen airstrikes, and rapid-fire-inducing stim beacons to damage enemies and buff teammates. His impressive Orbital Strike ultimate summons an enormous laser that destroys anyone who doesn\'t move out of the radius fast enough.</p>',
-    agentPicture: "https://vignette.wikia.nocookie.net/valorant/images/7/79/Brimstone_%28Half%29.png/revision/latest/scale-to-width-down/350?cb=20200405200421",
+    agentPicture: "images/Brimstone_(Half).webp",
     abilityBasic1Title: "Incendiary",
     abilityBasic1Type: "Basic",
     abilityBasic1Cost: "200",
@@ -199,7 +199,7 @@ const agentPackage = [
     name: "Omen",
     summary: '<p>Omen hunts in the shadows. He renders enemies blind, teleports across the field, then lets paranoia take hold as foes scramble to uncover where it might strike next.</p>' + 
     '<p>A man with mysterious origins, Omen is focused on hindering the vision of his enemies with things like an orb that strikes those in his sights with nearsightedness and another that bursts to obscure the vision of everyone nearby. He can also teleport a short distance, or use his ultimate to teleport anywhere on the map as a shadow.</p>',
-    agentPicture: "https://vignette.wikia.nocookie.net/valorant/images/7/7d/Omen_%28Half%29.png/revision/latest/scale-to-width-down/350?cb=20200405200112",
+    agentPicture: "images/Omen_(Half).webp",
     abilityBasic1Title: "Shrouded Step",
     abilityBasic1Type: "Basic",
     abilityBasic1Cost: "100",
